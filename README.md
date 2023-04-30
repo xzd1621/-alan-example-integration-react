@@ -22,6 +22,9 @@ By providing a solution specifically tailored for the visually impaired, our pro
 ### Social Impact and Benefits
 The Voice-Enabled MetaMask Wallet API carries significant societal value by addressing the needs of the visually impaired community, fostering greater digital inclusivity, and reducing the digital divide.
 
+
+
+
 ## Run
 
 
